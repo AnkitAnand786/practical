@@ -24,6 +24,7 @@ void main() {
   bool b1 = false;
   print("$b --->This is boolean datatype.");
   print("$b1 --->This is boolean datatype.");
+  print("$b1 --->This is boolean datatype.");
   print("-------------------------------------------------------------------");
 
 // String
